@@ -1,0 +1,5 @@
+venv
+.venv
+sshkey
+collections/*
+!collections/requirements.yml
